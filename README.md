@@ -64,7 +64,7 @@ When you use software applications, they often create unique IDs to identify you
 
 2. **Go to the folder with these scripts**
 
-   - Use the `cd` command (example: `cd C:\Downloads\vibe-coding-VIP-main`)
+   - Use the `cd "Folder_path"` command (example: `cd "C:\Downloads\vibe-coding-VIP-main"`)
 
 3. **Run the script you need**
 
