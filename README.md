@@ -88,4 +88,3 @@ When you use software applications, they often create unique IDs to identify you
 - `reset_cursor_windows-v0.1.ps1` - Resets Cursor IDs
 - `reset_windsurf_windows-v0.1.ps1` - Resets Windsurf IDs
 - `change_device_id.ps1` - Changes Windows device IDs
-- `CursorFreeVIP_1.8.08_windows.exe` - Cursor editor installer
